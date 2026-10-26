@@ -1,6 +1,6 @@
 # Intelligent-OS Field Audit
 
-**Live dossier:** https://lucface.github.io/intelligent-os-field-audit/
+**Live dossier:** https://lucascooperbey.github.io/intelligent-os-field-audit/
 
 On 2026-07-22 a one-person "Intelligent OS" (the whole operating layer one builder runs around his AI tooling: memory with provenance, retrieval, skills, agents, scheduled autonomy, evals, security rails, business integration) audited itself against **G-Brain**, **Hermes Agent**, and **OpenClaw** across 12 dimensions, closed its biggest measured gap the same day, and re-graded itself that night. The dossier is the record: interactive charts, logic trees, a receipts-first scorecard, and the before/after ghost race.
 
