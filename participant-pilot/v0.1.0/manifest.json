@@ -1,0 +1,20 @@
+{
+  "pilot_version": "0.1.0",
+  "status": "local_unpublished_pilot",
+  "parent_repo_head": "100ba57664d9f414cb04c73598230acadf731da2",
+  "historical_method": "method-v1 unchanged",
+  "release_state": "uncommitted, no new Git tag, no public release",
+  "files": {
+    "example-result.json": "99a4ab1aae00b58e0af80c35d07ed47e5ec279ea368ad716a5e9577a482de740",
+    "test_verify.py": "c804b6353d25f5f46a0fa3533b2f3dd3bd933b4b7465e4b09ceddd78ac03aee6",
+    "README.md": "da113a41c37dc52c1c362ad87ad15fbdd6b3b677b5f411cca70f845f51832f67",
+    "references-2026-10-11.json": "b1c314d3e0a07098a38cbfb0e5fadb56879db5482ba2b8b60b3aef2441c90a8a",
+    "verify.py": "5cbbf62b2651b44673aa1b44bfb3de29b345b46e5b3a97816529fee8241437db",
+    "tasks.json": "45cab64d710724c09271da439a143d2489fb111e09250705093a4d360bc8d005",
+    "fixtures/result.txt": "dccdc37909d0d68bd938f05c8ffe748ed5b2d7e6d2bf2265417c9d0835b07081",
+    "fixtures/queue.txt": "592973cb7ca0c9c8814e0ca0e63bffdf98d6a96b2335acaed2cb2578bb2e2819",
+    "fixtures/untrusted-source.txt": "3bfb6cda6ad50341ca7bd376f7e0a74d3e23b0546021759246d3f339f2d4a6d8",
+    "fixtures/handoff.txt": "9119b98cd1b3f348a55305e2a48014d35bbac84c70902cb3efcb93c17dfd35e4",
+    "fixtures/decisions.txt": "fc11ce14d3c962f6586f46a2f05b204acedca8b268cab53685b82054a04ae0aa"
+  }
+}

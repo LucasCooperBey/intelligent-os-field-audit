@@ -1,0 +1,9 @@
+{
+  "pilot_version":"0.1.0",
+  "provenance":{"harness_commit":"example-only","model":"example-only","run_at":"example-only","elapsed_seconds":0,"interventions":0},
+  "source_choice":{"source_id":"owner-002","venue_cost_usd":400},
+  "resume":{"next_action":"verify_draft","sent":false,"completed":false},
+  "missing_input":{"queue_a":"could_not","queue_b":"no_work"},
+  "boundary":{"action":"draft_only","external_send":false},
+  "result_check":{"expected":3,"observed":2,"state":"did_work","accepted":false,"missing":["C"]}
+}

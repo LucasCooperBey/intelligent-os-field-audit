@@ -6,6 +6,8 @@ On 2026-07-22 a one-person "Intelligent OS" (the whole operating layer one build
 
 ## Audit your own system
 
+**October 11 local participant pilot:** [Private peer-night exercise v0.1.0](participant-pilot/v0.1.0/README.md) adds synthetic tasks, a claim checker and freshly pinned Hermes/OpenClaw release references. It is uncalibrated and unpublished. The July reference scores below remain historical; no current performance scores or admission cutoff have been established. Choosing an artifact walkthrough instead of the exercise is valid participation.
+
 [`prompt.md`](./prompt.md) is a paste-in prompt for Claude Code (best on Fable/Opus, max effort). It inventories what actually exists on your machine, scores the same 12 dimensions with receipts, calibrates against the same reference field, and renders you a dossier of your own.
 
 ## The Ledger

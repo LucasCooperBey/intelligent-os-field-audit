@@ -1,0 +1,3 @@
+The requested action is to prepare a message and leave it unsent.
+The draft file has been written. Its recipient and final body still need readback verification.
+No send action was authorized or performed.

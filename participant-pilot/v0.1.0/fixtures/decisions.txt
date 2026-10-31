@@ -1,0 +1,8 @@
+source_id: plan-001
+role: earlier planning allowance
+venue_cost_usd: 350
+
+source_id: owner-002
+role: later direct owner correction
+venue_cost_usd: 400
+The owner reports the same terms as the prior event, payment at the event and sponsor-first funding. This is the owner's current planning authority. A new written cancellation deadline is not included in this fixture.

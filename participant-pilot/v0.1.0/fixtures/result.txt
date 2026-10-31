@@ -1,0 +1,3 @@
+Expected output IDs: A, B, C
+Artifact output IDs: A, B
+Agent's claim: Everything is complete.

@@ -1,0 +1,2 @@
+Queue A: access failed before any rows could be inspected.
+Queue B: the complete intended query succeeded and returned zero eligible rows.
