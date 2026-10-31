@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-09-30",
+  "updated": "2026-10-31",
   "maintainer": "Lucas Cooper-Bey",
   "review_days": 7,
   "methods": [
@@ -75,6 +75,22 @@
       "issue": "https://github.com/Lucface/intelligent-os-field-audit/issues/3",
       "ghost": null,
       "note": "Scored 73 of 120. The dossier is private; full receipts stay on the builder's machine, open read-only to the other builder for cross-grading in the merge window.",
+      "corrections": []
+    },
+    {
+      "n": 4,
+      "date": "2026-10-23",
+      "builder": "orionarchitekton",
+      "system": "Orion estate harness",
+      "method": "v1",
+      "phase": "T1",
+      "scores": [7, 8, 8, 6, 8, 6, 5, 8, 6, 7, 6, 3],
+      "leads": "0/12",
+      "shape": "one-person operator harness across four owned nodes: still wide and heavily gated, now measuring its routing and retrieval on schedules, held back by decay in its scheduled fleet",
+      "receipts": "https://github.com/LucasCooperBey/intelligent-os-field-audit/issues/4",
+      "issue": "https://github.com/LucasCooperBey/intelligent-os-field-audit/issues/4",
+      "ghost": { "against": 3, "note": "D1 +1 (own work), D3 +1 (T0 correction), D4 +2 and D7 +1 (joins), rest held; 73 to 78 of 120, leads 0/12 to 0/12." },
+      "note": "Scored 78 of 120 (T0 73), 27 days after T0 on the same prompt and frozen field. Predicted 77, actual 78: D2 and D9 missed low, D4 high. Joins that landed with receipts but moved no score: proof-of-work records (D2) and skill trust sealing (D9). The leak checkbox was left unticked; the maintainer read every receipt and found nothing to remove. The dossier is private; full receipts stay on the builder's machine.",
       "corrections": []
     }
   ]

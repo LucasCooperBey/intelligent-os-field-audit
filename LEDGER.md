@@ -3,13 +3,21 @@
 
 The running record of harness shapes. Not a leaderboard: nobody wins a scorecard. Every entry is one builder's Intelligent OS, audited with [`prompt.md`](./prompt.md), receipts first. Post yours as an [issue](https://github.com/Lucface/intelligent-os-field-audit/issues/new?template=scorecard.md). Lucas Cooper-Bey reviews it within 7 days, and an accepted entry is appended to [`ledger.json`](./ledger.json). Entries are never rewritten; a correction is added under its entry.
 
-Method: v1 is current (frozen 2026-07-22, tag `method-v1`); v2 is a draft open for input at https://github.com/Lucface/intelligent-os-field-audit/issues/2. Changes between versions: [`METHOD-CHANGELOG.md`](./METHOD-CHANGELOG.md). Updated 2026-09-30.
+Method: v1 is current (frozen 2026-07-22, tag `method-v1`); v2 is a draft open for input at https://github.com/Lucface/intelligent-os-field-audit/issues/2. Changes between versions: [`METHOD-CHANGELOG.md`](./METHOD-CHANGELOG.md). Updated 2026-10-31.
 
 | # | Date | Builder | System | Method | D1 | D2 | D3 | D4 | D5 | D6 | D7 | D8 | D9 | D10 | D11 | D12 | Leads | Shape, in one line |
 |---|------|---------|--------|--------|----|----|----|----|----|----|----|----|----|----|----|----|-------|--------------------|
+| 004 | 2026-10-23 | orionarchitekton | Orion estate harness | v1 T1 | 7 | 8 | 8 | 6 | 8 | 6 | 5 | 8 | 6 | 7 | 6 | 3 | 0/12 | one-person operator harness across four owned nodes: still wide and heavily gated, now measuring its routing and retrieval on schedules, held back by decay in its scheduled fleet |
 | 003 | 2026-09-26 | orionarchitekton | Orion estate harness | v1 T0 | 6 | 8 | 7 | 4 | 8 | 6 | 4 | 8 | 6 | 7 | 6 | 3 | 0/12 | one-person operator harness across four owned nodes: wide and heavily gated, thin on measurement, with most scheduled loops paused by a dated decision |
 | 002 | 2026-09-25 | Lucas Cooper-Bey | Lucface IOS, Join Protocol T0 (pre-merge baseline) | v1 T0 | 6 | 9 | 8 | 8 | 9 | 7 | 7 | 9 | 8 | 9 | 9 | 2 | 7/12 | wider and more measured than July, and five scores fell because the re-grade allowed drops: no hash in any spine row, an unwatched retrieval series, undrained proposal queues, untested hooks, a finance snapshot never produced |
 | 001 | 2026-07-22 | Lucas Cooper-Bey | Lucface IOS (one-person Intelligent OS) | v1 | 5 | 9 | 9 | 9 | 9 | 8 | 7 | 9 | 9 | 9 | 10 | 2 | 8/12 | full-stack institution: provenance + security + business rails deep, voice and ecosystem thin by choice |
+
+## Entry 004
+
+- Receipts: https://github.com/LucasCooperBey/intelligent-os-field-audit/issues/4
+- Issue: https://github.com/LucasCooperBey/intelligent-os-field-audit/issues/4
+- Ghost vs now (against entry 003): D1 +1 (own work), D3 +1 (T0 correction), D4 +2 and D7 +1 (joins), rest held; 73 to 78 of 120, leads 0/12 to 0/12.
+- Note: Scored 78 of 120 (T0 73), 27 days after T0 on the same prompt and frozen field. Predicted 77, actual 78: D2 and D9 missed low, D4 high. Joins that landed with receipts but moved no score: proof-of-work records (D2) and skill trust sealing (D9). The leak checkbox was left unticked; the maintainer read every receipt and found nothing to remove. The dossier is private; full receipts stay on the builder's machine.
 
 ## Entry 003
 
